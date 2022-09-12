@@ -1,0 +1,15 @@
+E:\_estudos\CSharp\CleanArch\CleanArchMvc.Application\bin\Debug\net6.0\CleanArchMvc.Application.deps.json
+E:\_estudos\CSharp\CleanArch\CleanArchMvc.Application\bin\Debug\net6.0\CleanArchMvc.Application.dll
+E:\_estudos\CSharp\CleanArch\CleanArchMvc.Application\bin\Debug\net6.0\CleanArchMvc.Application.pdb
+E:\_estudos\CSharp\CleanArch\CleanArchMvc.Application\obj\Debug\net6.0\CleanArchMvc.Application.csproj.AssemblyReference.cache
+E:\_estudos\CSharp\CleanArch\CleanArchMvc.Application\obj\Debug\net6.0\CleanArchMvc.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\_estudos\CSharp\CleanArch\CleanArchMvc.Application\obj\Debug\net6.0\CleanArchMvc.Application.AssemblyInfoInputs.cache
+E:\_estudos\CSharp\CleanArch\CleanArchMvc.Application\obj\Debug\net6.0\CleanArchMvc.Application.AssemblyInfo.cs
+E:\_estudos\CSharp\CleanArch\CleanArchMvc.Application\obj\Debug\net6.0\CleanArchMvc.Application.csproj.CoreCompileInputs.cache
+E:\_estudos\CSharp\CleanArch\CleanArchMvc.Application\obj\Debug\net6.0\CleanArchMvc.Application.dll
+E:\_estudos\CSharp\CleanArch\CleanArchMvc.Application\obj\Debug\net6.0\refint\CleanArchMvc.Application.dll
+E:\_estudos\CSharp\CleanArch\CleanArchMvc.Application\obj\Debug\net6.0\CleanArchMvc.Application.pdb
+E:\_estudos\CSharp\CleanArch\CleanArchMvc.Application\obj\Debug\net6.0\ref\CleanArchMvc.Application.dll
+E:\_estudos\CSharp\CleanArch\CleanArchMvc.Application\bin\Debug\net6.0\CleanArchMvc.Domain.dll
+E:\_estudos\CSharp\CleanArch\CleanArchMvc.Application\bin\Debug\net6.0\CleanArchMvc.Domain.pdb
+E:\_estudos\CSharp\CleanArch\CleanArchMvc.Application\obj\Debug\net6.0\CleanArchMvc.Application.csproj.CopyComplete
