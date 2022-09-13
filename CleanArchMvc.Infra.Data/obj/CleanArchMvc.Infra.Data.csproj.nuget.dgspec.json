@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "e:\\_estudos\\CSharp\\CleanArch\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj": {}
+    "E:\\_estudos\\CSharp\\CleanArch\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj": {}
   },
   "projects": {
-    "e:\\_estudos\\CSharp\\CleanArch\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {
+    "E:\\_estudos\\CSharp\\CleanArch\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\_estudos\\CSharp\\CleanArch\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj",
+        "projectUniqueName": "E:\\_estudos\\CSharp\\CleanArch\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj",
         "projectName": "CleanArchMvc.Domain",
-        "projectPath": "e:\\_estudos\\CSharp\\CleanArch\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj",
+        "projectPath": "E:\\_estudos\\CSharp\\CleanArch\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj",
         "packagesPath": "C:\\Users\\gris\\.nuget\\packages\\",
-        "outputPath": "e:\\_estudos\\CSharp\\CleanArch\\CleanArchMvc.Domain\\obj\\",
+        "outputPath": "E:\\_estudos\\CSharp\\CleanArch\\CleanArchMvc.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gris\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,7 +45,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -54,18 +55,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "e:\\_estudos\\CSharp\\CleanArch\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj": {
+    "E:\\_estudos\\CSharp\\CleanArch\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\_estudos\\CSharp\\CleanArch\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj",
+        "projectUniqueName": "E:\\_estudos\\CSharp\\CleanArch\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj",
         "projectName": "CleanArchMvc.Infra.Data",
-        "projectPath": "e:\\_estudos\\CSharp\\CleanArch\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj",
+        "projectPath": "E:\\_estudos\\CSharp\\CleanArch\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj",
         "packagesPath": "C:\\Users\\gris\\.nuget\\packages\\",
-        "outputPath": "e:\\_estudos\\CSharp\\CleanArch\\CleanArchMvc.Infra.Data\\obj\\",
+        "outputPath": "E:\\_estudos\\CSharp\\CleanArch\\CleanArchMvc.Infra.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gris\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,8 +83,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "e:\\_estudos\\CSharp\\CleanArch\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {
-                "projectPath": "e:\\_estudos\\CSharp\\CleanArch\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj"
+              "E:\\_estudos\\CSharp\\CleanArch\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {
+                "projectPath": "E:\\_estudos\\CSharp\\CleanArch\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj"
               }
             }
           }
@@ -100,7 +101,7 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
+              "suppressParent": "None",
               "target": "Package",
               "version": "[6.0.8, )"
             },
@@ -121,7 +122,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -130,7 +132,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

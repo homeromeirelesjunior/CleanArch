@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JkBayN6rLGCLTQ+eI0hmPbVmNeWHRhK4WOteTgEZ0melKnZD4jzmEHNGUoyRzKzf5y/l7MLhV9sDP6zi5vMFKw==",
+  "dgSpecHash": "N7H9/BsshF5xLeSf0OWjJ8cFGuU0EepEOjlfC5zbuht48w/IKiKK9rhd+Ig/6kNLXvB/hD11NiPOz8OZnnzovw==",
   "success": true,
-  "projectFilePath": "e:\\_estudos\\CSharp\\CleanArch\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj",
+  "projectFilePath": "E:\\_estudos\\CSharp\\CleanArch\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gris\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\gris\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
