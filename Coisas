@@ -1,0 +1,14 @@
+sudo docker run -e "ACCEPT_EULA=Y" -e "MSSQL_SA_PASSWORD=YourStrong@Passw0rd" \
+   -p 1433:1433 --name sqlserver --hostname sqlserver \
+   -d \
+   mcr.microsoft.com/mssql/server:2017-latest
+
+   Data Source=host.docker.internal,1433;Initial Catalog=CleanArchitecture;User ID=SA;Password=YourStrong@Passw0rd
+
+private static string _connStr = @"
+  Server=127.0.0.1,1401;
+  Database=CleanArchitecture;
+  User Id=SA;
+  Password=YourStrong@Passw0rd";
+            
+URL	jdbc:sqlserver://;serverName=localhost;port=1400;databaseName=master

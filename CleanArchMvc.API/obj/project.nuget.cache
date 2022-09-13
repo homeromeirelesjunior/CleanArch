@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ywgKR5O2htAZyAf7p29ND0gxVDllqwowp4kMn7ZpX73V5w1VDGC7c8aa5YMRgN1Y0snxse95Ww70u7KsNfn10g==",
+  "success": true,
+  "projectFilePath": "/home/homero/estudos/CleanArchitecture/CleanArch/CleanArchMvc.API/CleanArchMvc.API.csproj",
+  "expectedPackageFiles": [
+    "/home/homero/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/home/homero/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/homero/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/home/homero/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/home/homero/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/home/homero/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

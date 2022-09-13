@@ -2029,34 +2029,32 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\gris\\.nuget\\packages\\": {}
+    "/home/homero/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\_estudos\\CSharp\\CleanArch\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj",
+      "projectUniqueName": "/home/homero/estudos/CleanArchitecture/CleanArch/CleanArchMvc.Infra.Data/CleanArchMvc.Infra.Data.csproj",
       "projectName": "CleanArchMvc.Infra.Data",
-      "projectPath": "E:\\_estudos\\CSharp\\CleanArch\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj",
-      "packagesPath": "C:\\Users\\gris\\.nuget\\packages\\",
-      "outputPath": "E:\\_estudos\\CSharp\\CleanArch\\CleanArchMvc.Infra.Data\\obj\\",
+      "projectPath": "/home/homero/estudos/CleanArchitecture/CleanArch/CleanArchMvc.Infra.Data/CleanArchMvc.Infra.Data.csproj",
+      "packagesPath": "/home/homero/.nuget/packages/",
+      "outputPath": "/home/homero/estudos/CleanArchitecture/CleanArch/CleanArchMvc.Infra.Data/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\gris\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/homero/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\_estudos\\CSharp\\CleanArch\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {
-              "projectPath": "E:\\_estudos\\CSharp\\CleanArch\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj"
+            "/home/homero/estudos/CleanArchitecture/CleanArch/CleanArchMvc.Domain/CleanArchMvc.Domain.csproj": {
+              "projectPath": "/home/homero/estudos/CleanArchitecture/CleanArch/CleanArchMvc.Domain/CleanArchMvc.Domain.csproj"
             }
           }
         }
@@ -2104,7 +2102,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
       }
     }
   }
