@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/home/homero/estudos/CleanArchitecture/CleanArch/CleanArchMvc.Infra.Data/CleanArchMvc.Infra.Data.csproj": {}
+    "E:\\_estudos\\CSharp\\CleanArchitectureMvc\\CleanArch\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj": {}
   },
   "projects": {
-    "/home/homero/estudos/CleanArchitecture/CleanArch/CleanArchMvc.Domain/CleanArchMvc.Domain.csproj": {
+    "E:\\_estudos\\CSharp\\CleanArchitectureMvc\\CleanArch\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/homero/estudos/CleanArchitecture/CleanArch/CleanArchMvc.Domain/CleanArchMvc.Domain.csproj",
+        "projectUniqueName": "E:\\_estudos\\CSharp\\CleanArchitectureMvc\\CleanArch\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj",
         "projectName": "CleanArchMvc.Domain",
-        "projectPath": "/home/homero/estudos/CleanArchitecture/CleanArch/CleanArchMvc.Domain/CleanArchMvc.Domain.csproj",
-        "packagesPath": "/home/homero/.nuget/packages/",
-        "outputPath": "/home/homero/estudos/CleanArchitecture/CleanArch/CleanArchMvc.Domain/obj/",
+        "projectPath": "E:\\_estudos\\CSharp\\CleanArchitectureMvc\\CleanArch\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj",
+        "packagesPath": "C:\\Users\\gris\\.nuget\\packages\\",
+        "outputPath": "E:\\_estudos\\CSharp\\CleanArchitectureMvc\\CleanArch\\CleanArchMvc.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/homero/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\gris\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -53,34 +55,36 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/homero/estudos/CleanArchitecture/CleanArch/CleanArchMvc.Infra.Data/CleanArchMvc.Infra.Data.csproj": {
+    "E:\\_estudos\\CSharp\\CleanArchitectureMvc\\CleanArch\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/homero/estudos/CleanArchitecture/CleanArch/CleanArchMvc.Infra.Data/CleanArchMvc.Infra.Data.csproj",
+        "projectUniqueName": "E:\\_estudos\\CSharp\\CleanArchitectureMvc\\CleanArch\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj",
         "projectName": "CleanArchMvc.Infra.Data",
-        "projectPath": "/home/homero/estudos/CleanArchitecture/CleanArch/CleanArchMvc.Infra.Data/CleanArchMvc.Infra.Data.csproj",
-        "packagesPath": "/home/homero/.nuget/packages/",
-        "outputPath": "/home/homero/estudos/CleanArchitecture/CleanArch/CleanArchMvc.Infra.Data/obj/",
+        "projectPath": "E:\\_estudos\\CSharp\\CleanArchitectureMvc\\CleanArch\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\gris\\.nuget\\packages\\",
+        "outputPath": "E:\\_estudos\\CSharp\\CleanArchitectureMvc\\CleanArch\\CleanArchMvc.Infra.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/homero/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\gris\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/home/homero/estudos/CleanArchitecture/CleanArch/CleanArchMvc.Domain/CleanArchMvc.Domain.csproj": {
-                "projectPath": "/home/homero/estudos/CleanArchitecture/CleanArch/CleanArchMvc.Domain/CleanArchMvc.Domain.csproj"
+              "E:\\_estudos\\CSharp\\CleanArchitectureMvc\\CleanArch\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {
+                "projectPath": "E:\\_estudos\\CSharp\\CleanArchitectureMvc\\CleanArch\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj"
               }
             }
           }
@@ -128,7 +132,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

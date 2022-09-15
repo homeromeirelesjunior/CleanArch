@@ -1,7 +1,4 @@
-sudo docker run -e "ACCEPT_EULA=Y" -e "MSSQL_SA_PASSWORD=YourStrong@Passw0rd" \
-   -p 1433:1433 --name sqlserver --hostname sqlserver \
-   -d \
-   mcr.microsoft.com/mssql/server:2017-latest
+sudo docker run -e "ACCEPT_EULA=Y" -e "MSSQL_SA_PASSWORD=YourStrong@Passw0rd" -p 1400:1433 --name sqlserver --hostname sqlserver -d mcr.microsoft.com/mssql/server:2017-latest
 
    Data Source=host.docker.internal,1433;Initial Catalog=CleanArchitecture;User ID=SA;Password=YourStrong@Passw0rd
 
